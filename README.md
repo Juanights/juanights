@@ -1,8 +1,8 @@
 ### Hello, i am Juan Uchise 👋
 
 
-- 🔭 I currently work as an administrative assistant, but I am looking for a job in front-end development (HTML, CSS, JS)
-- 🌱 I'm studying a degree in Systems Analysis and Development
+- 🔭 I currently work as an administrative assistant.
+- 🌱 I'm studying systems analysis and development with a focus on data science - Database, Python and its libraries (Plotly, Numpy, Pandas, Seaborn)
 
 
 [![Juanights GitHub stats](https://github-readme-stats.vercel.app/api?username=juanights&show_icons=true&theme=tokyonight)](https://github.com/juanights/github-readme-stats)
